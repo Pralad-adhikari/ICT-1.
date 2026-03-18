@@ -1,1 +1,1 @@
-print("Pralad Adhikari")
+print"pralad adhilari"
